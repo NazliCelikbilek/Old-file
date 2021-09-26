@@ -1,2 +1,2 @@
-page oneThis is the firt page of chapter 1
+page oneThis is the first page of chapter 1
 this is our book
