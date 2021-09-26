@@ -1,0 +1,6 @@
+How Version Control Systems Changed the World
+Before version control systems were created, people relied on manually backing up previous versions of projects. They were copying modified files by hand in order to incorporate the work of multiple developers on the same project.
+
+It cost a lot of time, hard drive space, and money.
+
+When we look at the history, we can broadly distinguish three generations of version control software.
